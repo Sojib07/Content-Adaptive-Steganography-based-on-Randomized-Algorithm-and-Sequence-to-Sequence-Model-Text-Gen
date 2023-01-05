@@ -1,1 +1,1 @@
-# Content-Adaptive-Steganography-based-on-Randomized-Algorithm-and-Sequence-to-Sequence-Model-Text-Gen
+An algorithm combining steganography, cryptography, and randomization techniques for secure message transmission. A machine-learning sequence-to-sequence text generation model (Generative Pretrained Transformer 2) has been used to generate meaningful cover text that hides secret information.
